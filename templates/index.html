@@ -1,0 +1,14 @@
+<link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+<link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/base.css') }}">
+
+<body>
+  <h1>
+    Stock Market App
+  </h1>
+  {% for i in range(11) %}
+  <div class="inner_text">
+    This is the stock market app
+  </div>
+  {% endfor %}
+
+</body>
