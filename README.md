@@ -1,3 +1,3 @@
 # stock_market_app
 
-Test commit
+An app for the stock market
