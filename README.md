@@ -1,7 +1,6 @@
 # stock_market_app
 
-An app for the stock market
-
-Making a change without permission
-
-A new change - Cory
+To run:
+- `pip install -r requirements.txt`
+- `python script1.py`
+- Browse to `localhost:5000`
